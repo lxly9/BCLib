@@ -2,17 +2,15 @@
   "schemaVersion": 1,
   "id": "bclib",
   "version": "2.1.7",
-  "name": "BCLib",
-  "description": "A library for BetterX team mods",
+  "name": "BCLib Fork",
+  "description": "A Fork of BCLib to work with EMI 1.0.0",
   "authors": [
-    "Quiqueck",
-    "paulevs",
-    "Bulldog83"
+    "gayasslily"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/bclib",
-    "issues": "https://github.com/quiqueck/bclib/issues",
-    "sources": "https://github.com/quiqueck/bclib"
+    "homepage": "https://modrinth.com/mod/betterx-jemi",
+    "issues": "https://github.com/lxly9.2/bclib/issues",
+    "sources": "https://github.com/lxly9.2/bclib"
   },
   "license": "MIT (CC BY-NC-SA 4.0 for some Assets)",
   "icon": "assets/bclib/icon.png",
@@ -54,13 +52,7 @@
   "custom": {
     "bclib": {
       "downloads": {
-        "modrinth": "https://modrinth.com/mod/bclib",
-        "curseforge": "https://www.curseforge.com/minecraft/mc-mods/bclib"
-      }
-    },
-    "modmenu": {
-      "links": {
-        "title.link.bclib.discord": "https://discord.gg/kYuATbYbKW"
+        "modrinth": "https://modrinth.com/mod/betterx-jemi"
       }
     }
   }
